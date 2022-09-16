@@ -1,0 +1,1 @@
+I created an End-toend web service for storing information about crypto trades. The Website is unfortunately down right now. Im working on Putting it back online. If necessary, This website can be demo'd locally. 
